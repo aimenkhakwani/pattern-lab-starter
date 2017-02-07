@@ -1,0 +1,8 @@
+<div class="tiles">
+  {% for item in items %}
+    {% include "@molecules/box-thumbnail.twig" with {
+      style: item.style,
+      img: item.img,
+    } %}
+  {% endfor %}
+</div>
