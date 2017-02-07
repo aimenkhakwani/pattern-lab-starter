@@ -2,51 +2,75 @@
   "items": [
     {
       "img": "../../../../images/pic01.jpg",
-      "style": "style1"
+      "style": "style1",
+      "title": "Magna",
+      "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "img": "../../../../images/pic02.jpg",
-      "style": "style2"
+      "style": "style2",
+      "title": "Lorem",
+      "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "img": "../../../../images/pic03.jpg",
-      "style": "style3"
+      "style": "style3",
+      "title": "Feugiat",
+      "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "img": "../../../../images/pic04.jpg",
-      "style": "style4"
+      "style": "style4",
+      "title": "Tempus",
+      "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "img": "../../../../images/pic05.jpg",
-      "style": "style5"
+      "style": "style5",
+      "title": "Aliquam",
+      "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "img": "../../../../images/pic06.jpg",
-      "style": "style6"
+      "style": "style6",
+      "title": "Veroesros",
+      "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "img": "../../../../images/pic07.jpg",
-      "style": "style2"
+      "style": "style2",
+      "title": "Ipsum",
+      "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "img": "../../../../images/pic08.jpg",
-      "style": "style3"
+      "style": "style3",
+      "title": "Dolor",
+      "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "img": "../../../../images/pic09.jpg",
-      "style": "style4"
+      "style": "style4",
+      "title": "Nullam",
+      "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "img": "../../../../images/pic10.jpg",
-      "style": "style5"
+      "style": "style5",
+      "title": "Ultricies",
+      "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "img": "../../../../images/pic11.jpg",
-      "style": "style6"
+      "style": "style6",
+      "title": "Dictum",
+      "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "img": "../../../../images/pic12.jpg",
-      "style": "style1"
+      "style": "style1",
+      "title": "Pretium",
+      "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     }
   ]
 }
