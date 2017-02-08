@@ -64,24 +64,44 @@ plugins:
           - ../source/_patterns/01-atoms/01-typography/lists
           - ../source/_patterns/01-atoms/01-typography/text
           - ../source/_patterns/01-atoms/buttons
+          - ../source/_patterns/01-atoms/contact-h2
+          - ../source/_patterns/01-atoms/follow-h2
+          - ../source/_patterns/01-atoms/form/contact-h2
+          - ../source/_patterns/01-atoms/form/email-input-field
+          - ../source/_patterns/01-atoms/form/message-textarea
+          - ../source/_patterns/01-atoms/form/name-input-field
+          - ../source/_patterns/01-atoms/form/send-input-field
           - ../source/_patterns/01-atoms/images
+          - ../source/_patterns/01-atoms/name-input-field
+          - ../source/_patterns/01-atoms/phantom-h1
+          - ../source/_patterns/01-atoms/phantom-paragraph
       molecules:
         paths:
           - ../source/_patterns/02-molecules
           - ../source/_patterns/02-molecules/box-thumbnail
           - ../source/_patterns/02-molecules/branding
           - ../source/_patterns/02-molecules/caption-block
+          - ../source/_patterns/02-molecules/contact-form
+          - ../source/_patterns/02-molecules/copyright
+          - ../source/_patterns/02-molecules/header-logo
+          - ../source/_patterns/02-molecules/phantom-intro
+          - ../source/_patterns/02-molecules/phantom-menu
+          - ../source/_patterns/02-molecules/social-media
       organisms:
         paths:
           - ../source/_patterns/03-organisms
           - ../source/_patterns/03-organisms/box-thumbnail-grid
           - ../source/_patterns/03-organisms/grids/caption-grid-block
+          - ../source/_patterns/03-organisms/phantom-footer
+          - ../source/_patterns/03-organisms/phantom-header
+          - ../source/_patterns/03-organisms/phantom-intro
           - ../source/_patterns/03-organisms/site/site-footer
           - ../source/_patterns/03-organisms/site/site-header
       templates:
         paths:
           - ../source/_patterns/04-templates
           - ../source/_patterns/04-templates/content-types
+          - ../source/_patterns/04-templates/content-types/phantom-front-page
       pages:
         paths:
           - ../source/_patterns/05-pages
