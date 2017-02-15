@@ -108,45 +108,45 @@ module.exports = {
         },
       ],
     },
-    scssToJson: [
-      {
-        src: 'source/_patterns/00-base/01-colors/_color-vars.scss',
-        dest: 'source/_patterns/00-base/01-colors/colors.json',
-        lineStartsWith: '$c-',
-        allowVarValues: false,
-      },
-      {
-        src: 'source/_patterns/01-atoms/01-typography/fonts/_fonts.scss',
-        dest: 'source/_patterns/01-atoms/01-typography/fonts/font-sizes.json',
-        lineStartsWith: '$fs--',
-        allowVarValues: false,
-      },
-      {
-        src: 'source/_patterns/01-atoms/01-typography/fonts/_fonts.scss',
-        dest: 'source/_patterns/01-atoms/01-typography/fonts/font-families.json',
-        lineStartsWith: '$ff--',
-        allowVarValues: false,
-      },
-      {
-        src: 'source/_patterns/00-base/breakpoints/_breakpoints.scss',
-        dest: 'source/_patterns/00-base/breakpoints/breakpoints.json',
-        lineStartsWith: '$bp--',
-        allowVarValues: false,
-      },
-      {
-        src: 'source/_patterns/00-base/spacing/_spacing.scss',
-        dest: 'source/_patterns/00-base/spacing/spacing.json',
-        lineStartsWith: '$spacing--',
-        allowVarValues: false,
-      },
-      {
-        src: 'source/_patterns/00-base/animations/01-transitions/_transitions.scss',
-        dest: 'source/_patterns/00-base/animations/01-transitions/transitions.json',
-        lineStartsWith: '$trans-',
-        allowVarValues: true,
-      },
-    ],
-  },
+    // scssToJson: [
+    //   {
+    //     src: 'source/_patterns/00-base/01-colors/_color-vars.scss',
+    //     dest: 'source/_patterns/00-base/01-colors/colors.json',
+    //     lineStartsWith: '$c-',
+    //     allowVarValues: false,
+    //   },
+    //   {
+    //     src: 'source/_patterns/01-atoms/01-typography/fonts/_fonts.scss',
+    //     dest: 'source/_patterns/01-atoms/01-typography/fonts/font-sizes.json',
+    //     lineStartsWith: '$fs--',
+    //     allowVarValues: false,
+    //   },
+    //   {
+    //     src: 'source/_patterns/01-atoms/01-typography/fonts/_fonts.scss',
+    //     dest: 'source/_patterns/01-atoms/01-typography/fonts/font-families.json',
+    //     lineStartsWith: '$ff--',
+    //     allowVarValues: false,
+    //   },
+      // {
+      //   src: 'source/_patterns/00-base/breakpoints/_breakpoints.scss',
+      //   dest: 'source/_patterns/00-base/breakpoints/breakpoints.json',
+      //   lineStartsWith: '$bp--',
+      //   allowVarValues: false,
+      // },
+      // {
+      //   src: 'source/_patterns/00-base/spacing/_spacing.scss',
+      //   dest: 'source/_patterns/00-base/spacing/spacing.json',
+      //   lineStartsWith: '$spacing--',
+      //   allowVarValues: false,
+      // },
+      // {
+      //   src: 'source/_patterns/00-base/animations/01-transitions/_transitions.scss',
+      //   dest: 'source/_patterns/00-base/animations/01-transitions/transitions.json',
+      //   lineStartsWith: '$trans-',
+      //   allowVarValues: true,
+      // },
+  //   ],
+   },
   // https://github.com/nfroidure/gulp-iconfont
   icons: {
     enabled: true,
