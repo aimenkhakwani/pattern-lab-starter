@@ -1,4 +1,4 @@
-{ 
+{
   "pl": true,
   "title": "Faker.words(2, true)",
   "text": "Faker.words(3, true)",
@@ -7,6 +7,10 @@
   "headline": {
     "short": "Faker.words(3, true)",
     "medium": "Faker.words(7, true)"
+  },
+  "phantom": {
+    "contact": "Get in Touch",
+    "follow": "Follow"
   },
   "excerpt": {
     "short": "Faker.sentence",

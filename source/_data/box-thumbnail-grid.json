@@ -2,73 +2,73 @@
   "content": [
     {
       "img": "../../../../images/pic01.jpg",
-      "style": "style1",
+      "boxcolor": "box-thumbnail--pink",
       "title": "Magna",
       "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "img": "../../../../images/pic02.jpg",
-      "style": "style2",
+      "boxcolor": "box-thumbnail--blue",
       "title": "Lorem",
       "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "img": "../../../../images/pic03.jpg",
-      "style": "style3",
+      "boxcolor": "box-thumbnail--green",
       "title": "Feugiat",
       "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "img": "../../../../images/pic04.jpg",
-      "style": "style4",
+      "boxcolor": "box-thumbnail--magenta",
       "title": "Tempus",
       "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "img": "../../../../images/pic05.jpg",
-      "style": "style5",
+      "boxcolor": "box-thumbnail--purple",
       "title": "Aliquam",
       "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "img": "../../../../images/pic06.jpg",
-      "style": "style6",
+      "boxcolor": "box-thumbnail--lavendar",
       "title": "Veroesros",
       "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "img": "../../../../images/pic07.jpg",
-      "style": "style2",
+      "boxcolor": "box-thumbnail--blue",
       "title": "Ipsum",
       "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "img": "../../../../images/pic08.jpg",
-      "style": "style3",
+      "boxcolor": "box-thumbnail--green",
       "title": "Dolor",
       "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "img": "../../../../images/pic09.jpg",
-      "style": "style4",
+      "boxcolor": "box-thumbnail--magenta",
       "title": "Nullam",
       "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "img": "../../../../images/pic10.jpg",
-      "style": "style5",
+      "boxcolor": "box-thumbnail--purple",
       "title": "Ultricies",
       "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "img": "../../../../images/pic11.jpg",
-      "style": "style6",
+      "boxcolor": "box-thumbnail--lavendar",
       "title": "Dictum",
       "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "img": "../../../../images/pic12.jpg",
-      "style": "style1",
+      "boxcolor": "box-thumbnail--pink",
       "title": "Pretium",
       "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     }

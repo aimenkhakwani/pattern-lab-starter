@@ -1,7 +1,7 @@
-<div class="tiles">
+<div class="box-thumbnail">
   {% for item in content %}
     {% include "@molecules/box-thumbnail.twig" with {
-      style: item.style,
+      boxcolor: item.boxcolor,
       img: item.img,
       title: item.title,
       content: item.content
