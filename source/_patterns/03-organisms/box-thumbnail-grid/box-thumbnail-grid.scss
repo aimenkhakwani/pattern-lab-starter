@@ -1,51 +1,21 @@
-.box-thumbnail {
-  display: -moz-flex;
-  display: -webkit-flex;
-  display: -ms-flex;
+.box-thumbnail-grid {
   display: flex;
-  -moz-flex-wrap: wrap;
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   position: relative;
   margin: -2.5em 0 0 -2.5em;
 }
 
-.box-thumbnail--pink > .box-thumbnail__span:before {
-  background-color: #f2849e;
-}
-
-.box-thumbnail--blue > .box-thumbnail__span:before {
-  background-color: #7ecaf6;
-}
-
-.box-thumbnail--green > .box-thumbnail__span:before {
-  background-color: #7bd0c1;
-}
-
-.box-thumbnail--magenta > .box-thumbnail__span:before {
-  background-color: #c75b9b;
-}
-
-.box-thumbnail--purple > .box-thumbnail__span:before {
-  background-color: #ae85ca;
-}
-
-.box-thumbnail--lavendar > .box-thumbnail__span:before {
-  background-color: #8499e7;
-}
-
 @media screen and (max-width: 1280px) {
 
-  .box-thumbnail {
+  .box-thumbnail-grid {
     margin: -1.25em 0 0 -1.25em;
   }
-  
+
 }
 
 @media screen and (max-width: 980px) {
 
-  .box-thumbnail {
+  .box-thumbnail-grid {
     margin: -2.5em 0 0 -2.5em;
   }
 
@@ -53,7 +23,7 @@
 
 @media screen and (max-width: 736px) {
 
-  .box-thumbnail {
+  .box-thumbnail-grid {
     margin: -1.25em 0 0 -1.25em;
   }
 
@@ -61,7 +31,7 @@
 
 @media screen and (max-width: 480px) {
 
-  .box-thumbnail {
+  .box-thumbnail-grid {
     margin: 0;
   }
 
